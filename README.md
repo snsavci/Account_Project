@@ -73,7 +73,7 @@ Every `push` and `pull_request` triggers the GitHub Actions workflow defined in 
 
 ## 📷 Screenshots
 
-Here is a screenshot of the account creation form
+Here is a screenshot of the account creation form: 
 
 ![Account Form Screenshot](images/screenshot.png)
 
